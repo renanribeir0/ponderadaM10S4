@@ -64,6 +64,7 @@ Este projeto implementa as atividades do tutorial "Criando Métricas". O objetiv
    ```
 
    **Captura de tela - Código no `Program.cs`:**
+   
    ![Código inserido no Program.cs](image-3.png)
 
 ---
@@ -101,7 +102,7 @@ Este projeto implementa as atividades do tutorial "Criando Métricas". O objetiv
 
    Name                                                 Current Value
    [HatCo.Store]
-       hatco.store.hats_sold (Count)                          656    
+       hatco.store.hats_sold (Count)                          1.000    
    ```
 
    **Captura de tela - Monitoramento das métricas (`dotnet-counters`):**
